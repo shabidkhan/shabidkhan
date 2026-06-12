@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&random=false&width=750&lines=🔭+Stress-testing+ChatGPT-5+%26+Claude+Opus+%40+Quess+Corp;🧠+Building+AI+pipelines+with+RAG+%26+Vector+DBs;🚀+MERN+Stack+%7C+4%2B+years+in+production;👨‍🏫+Mentored+100%2B+students+%40+NavGurukul;⚡+Self-taught+%E2%86%92+Senior+Dev+%E2%86%92+AI+Trainer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%94%AD+Stress-testing+ChatGPT-5+%26+Claude+Opus+%40+Quess+Corp%3B%F0%9F%A7%A0+Building+AI+pipelines+with+RAG+%26+Vector+DBs%3B%F0%9F%9A%80+MERN+Stack+%7C+4%2B+years+in+production%3B%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+Mentored+100%2B+students+%40+NavGurukul%3B%E2%9A%A1+Self-taught+%E2%86%92+Senior+Dev+%E2%86%92+AI+Trainer" alt="Typing SVG" />
+
 
 <br/>
 
