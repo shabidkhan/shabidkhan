@@ -168,8 +168,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabidkhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://shabidkhan.dev)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabid@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-blond-5a38xykyv6.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanshabid007@gmail.com)
 
 <br/>
 <i>"Self-taught through NavGurukul → now training the AI that might teach others."</i>
