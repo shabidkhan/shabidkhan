@@ -254,14 +254,89 @@ End-to-end parking platform with space allocation, real-time reservations, and b
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:9333EA,100:14B8A6&height=3" width="100%"/>
 </div>
 
-<!-- ─────────────────────────  GITHUB STATS  ──────────────────────── -->
 
-<h2 align="center">📊 &nbsp; GitHub Stats</h2>
+<!-- ──────────────────  ENGINEERING PHILOSOPHY  ───────────────────── -->
+
+<h2 align="center">🧭 &nbsp; Engineering Philosophy</h2>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-CRAFT-14B8A6?style=flat-square&labelColor=0D1117"/>
+
+> _Code must be **readable** before it is clever._  
+> _Clarity compounds. Complexity kills at scale._
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-ADVERSARIAL-9333EA?style=flat-square&labelColor=0D1117"/>
+
+> _If you didn't break it intentionally, someone else will accidentally._  
+> _Stress-test first. Ship second._
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-OWNERSHIP-10B981?style=flat-square&labelColor=0D1117"/>
+
+> _Own the stack. Own the failure. Own the fix._  
+> _Engineering ends when users stop noticing bugs._
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-IMPACT-F59E0B?style=flat-square&labelColor=0D1117"/>
+
+> _I don't just write code._  
+> _I build systems that outlive the sprint they were born in._
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:9333EA,100:14B8A6&height=3" width="100%"/>
+</div>
+
+<!-- ──────────────────  COMPETITIVE PROGRAMMING  ──────────────────── -->
+
+<h2 align="center">🚀 &nbsp; Competitive Programming</h2>
+
+<div align="center">
+<sub><i>Sharpening algorithmic intuition — one problem at a time.</i></sub>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/shabidkhan/">
+  <img src="https://leetcard.jacoblin.cool/shabidkhan?theme=dark&font=JetBrains+Mono&ext=heatmap" alt="LeetCode stats"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:9333EA,100:14B8A6&height=3" width="100%"/>
+
+</div>
+
+<!-- ─────────────────────────  GITHUB INSIGHTS  ──────────────────── -->
+
+<h2 align="center">📊 &nbsp; GitHub Insights</h2>
+
+<div align="center">
+<sub><i>Live activity, streaks, and language distribution.</i></sub>
+</div>
+
+<br/>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=shabidkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=9333EA&text_color=FFFFFF" width="100%" alt="stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shabidkhan&theme=github_dark" width="100%" alt="stats"/>
     </td>
     <td width="50%">
       <img src="https://streak-stats.demolab.com?user=shabidkhan&theme=github-dark&hide_border=true&background=0D1117&ring=14B8A6&fire=9333EA&currStreakLabel=14B8A6" width="100%" alt="streak"/>
@@ -269,7 +344,7 @@ End-to-end parking platform with space allocation, real-time reservations, and b
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabidkhan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=FFFFFF&layout=compact" width="100%" alt="languages"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shabidkhan&theme=github_dark" width="100%" alt="repos per language"/>
     </td>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shabidkhan&theme=github_dark&utcOffset=5.5" width="100%" alt="productive time"/>
@@ -280,20 +355,6 @@ End-to-end parking platform with space allocation, real-time reservations, and b
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabidkhan&theme=github-compact&bg_color=0D1117&color=14B8A6&line=9333EA&point=FFFFFF&hide_border=true&area=true&custom_title=Shabid's%20Contribution%20Graph" width="95%" alt="activity graph"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:9333EA,100:14B8A6&height=3" width="100%"/>
-</div>
-
-<!-- ─────────────────────────  TROPHIES  ──────────────────────────── -->
-
-<h2 align="center">🏆 &nbsp; Trophies</h2>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shabidkhan&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
