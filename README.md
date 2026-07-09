@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=14B8A6&center=true&vCenter=true&width=820&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Trainer+%C2%B7+Team+Lead;Self-taught+%E2%86%92+Mentor+%E2%86%92+Builder;Breaking+AI+so+others+don%27t+have+to" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=14B8A6&center=true&vCenter=true&width=820&lines=MERN+Stack+Engineer+%C2%B7+4%2B+Years+in+Production;Stress-testing+ChatGPT+%26+Gemini+%40+Quess+Corp;Building+RAG+Pipelines+%26+Vector+DB+Solutions;Mentored+100%2B+Students+%40+NavGurukul;Self-taught+%E2%86%92+Senior+Dev+%E2%86%92+AI+Trainer" alt="typing"/>
 
 <br/><br/>
 
