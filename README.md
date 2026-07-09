@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:134E4A,100:7C3AED&height=230&section=header&text=Shabid%20Khan&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%C2%B7%20AI%20Trainer%20%C2%B7%20Team%20Lead%20%C2%B7%20Adversarial%20ML&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:134E4A,100:7C3AED&height=230&section=header&text=Shabid%20Khan&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Trainer%20%C2%B7%20Team%20Lead&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
 <br/>
 
@@ -52,7 +52,7 @@ Now at **Quess Corp**, I apply that same lens to AI — designing adversarial pr
 ```json
 {
   "name":      "Shabid Khan",
-  "role":      "AI Trainer @ Quess Corp",
+  "role":      "Python Full Stack Developer @ Quess Corp",
   "stack":     ["MERN", "Python", "LLMs"],
   "exp":       "4+ years",
   "companies": 4,
