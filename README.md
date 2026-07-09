@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=14B8A6&center=true&vCenter=true&width=820&lines=Building+AI+that+doesn%27t+break.;Breaking+AI+so+others+don%27t+have+to.;4%2B+Years+%7C+5+Companies+%7C+15%2B+Products;Self-taught+%E2%86%92+Mentor+%E2%86%92+AI+Trainer" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=14B8A6&center=true&vCenter=true&width=820&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Trainer+%C2%B7+Team+Lead;Self-taught+%E2%86%92+Mentor+%E2%86%92+Builder;Breaking+AI+so+others+don%27t+have+to" alt="typing"/>
 
 <br/><br/>
 
@@ -94,7 +94,7 @@ Now at **Quess Corp**, I apply that same lens to AI — designing adversarial pr
 #### 🏥 &nbsp; DOC-COPILOT
 **AI Healthcare Platform**
 
-AI-driven platform for semantic retrieval and analysis of multi-document clinical records. Improves clinical decision-making through intelligent document processing.
+AI-driven healthcare platform for semantic retrieval and analysis of multi-document clinical records. Improves clinical decision-making and operational efficiency through intelligent document processing.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -102,6 +102,9 @@ AI-driven platform for semantic retrieval and analysis of multi-document clinica
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vector%20DB-9333EA?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express"/>
 
 </td>
 <td width="50%" valign="top">
@@ -125,11 +128,15 @@ Abu Dhabi's unified government platform providing citizens and residents access 
 #### 🏆 &nbsp; [DEMOSPHERE](https://demosphere.com/)
 **Global Sports Management**
 
-Sports management platform with 30+ years of expertise, 250+ services for leagues and clubs worldwide. Real-time data, GraphQL APIs, complex multi-tenant scheduling.
+Global sports platform with 30+ years expertise — 250+ specialized services for leagues, clubs & organizations worldwide. Personalized, data-driven solutions with GraphQL APIs and multi-tenant scheduling.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-14B8A6?style=flat-square&labelColor=0D1117"/>
 
 [↗ demosphere.com](https://demosphere.com/)
 
@@ -139,12 +146,14 @@ Sports management platform with 30+ years of expertise, 250+ services for league
 #### 🤖 &nbsp; [FRESHOT-BOT](https://freshot.in/)
 **IoT Real-Time Monitoring**
 
-React web app bridging Arduino + Raspberry Pi with a live dashboard. Socket.IO for real-time telemetry, Firebase for persistence — hardware meets cloud.
+IoT web application integrating React with Arduino via Raspberry Pi for real-time monitoring and control of mechanical bots. Enables seamless bot-to-cloud communication.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
 
 [↗ freshot.in](https://freshot.in/)
 
@@ -156,11 +165,14 @@ React web app bridging Arduino + Raspberry Pi with a live dashboard. Socket.IO f
 #### 🅿️ &nbsp; [PARKING-PREMIER](https://parkings-premier.com/en_GB/)
 **Smart Parking Management**
 
-End-to-end parking platform with space allocation, real-time reservations, and billing. Next.js SSR for fast load times across regions.
+Robust parking management system enabling efficient space allocation, reservations, and account management with a seamless, high-performance user experience.
 
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 [↗ parkings-premier.com](https://parkings-premier.com/en_GB/)
 
@@ -213,7 +225,21 @@ End-to-end parking platform with space allocation, real-time reservations, and b
 
 **☁️ DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,githubactions&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,githubactions,prisma&theme=dark&perline=5"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**🏗️ Architecture & Design**
+
+<img src="https://img.shields.io/badge/System%20Design-14B8A6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Microservices-9333EA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/WebSockets-10B981?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Event--Driven-F59E0B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CI%2FCD-EA4335?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/REST%20APIs-3178C6?style=for-the-badge&labelColor=0D1117"/>
 
 </td>
 </tr>
