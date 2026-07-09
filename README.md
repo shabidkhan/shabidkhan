@@ -39,7 +39,7 @@
 
 <br/>
 
-Over **4+ years** I've shipped **15+ production systems** across healthcare, government, and sports. My story starts at **NavGurukul** — two years mentoring 100+ underprivileged students in Python and JavaScript shaped how I approach complexity: _break it down, make it clear, rebuild it right._
+Over **4 years** I've shipped **15+ production systems** across healthcare, government, and sports. My story starts at **NavGurukul** — two years mentoring 100+ underprivileged students in Python and JavaScript shaped how I approach complexity: _break it down, make it clear, rebuild it right._
 
 Now at **Quess Corp**, I apply that same lens to AI — designing adversarial prompts that expose failure modes in ChatGPT and Gemini before they reach production.
 
@@ -55,7 +55,7 @@ Now at **Quess Corp**, I apply that same lens to AI — designing adversarial pr
   "role":      "AI Trainer @ Quess Corp",
   "stack":     ["MERN", "Python", "LLMs"],
   "exp":       "4+ years",
-  "companies": 5,
+  "companies": 4,
   "products":  "15+ shipped",
   "mentored":  "100+ students",
   "cloud":     ["AWS", "Docker", "K8s"],
@@ -68,7 +68,7 @@ Now at **Quess Corp**, I apply that same lens to AI — designing adversarial pr
 <div align="center">
 
 <img src="https://img.shields.io/badge/4%2B%20Years-Experience-14B8A6?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/5-Companies-9333EA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/4-Companies-9333EA?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/15%2B-Products%20Shipped-10B981?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/100%2B-Students%20Mentored-F59E0B?style=for-the-badge&labelColor=0D1117"/>
 
@@ -97,7 +97,6 @@ Now at **Quess Corp**, I apply that same lens to AI — designing adversarial pr
 AI-driven healthcare platform for semantic retrieval and analysis of multi-document clinical records. Improves clinical decision-making and operational efficiency through intelligent document processing.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
