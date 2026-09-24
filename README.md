@@ -375,6 +375,11 @@ Robust parking management system enabling efficient space allocation, reservatio
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shabidkhan&theme=github_dark&utcOffset=5.5" width="100%" alt="productive time"/>
     </td>
   </tr>
+  <tr>
+     <td colspan="2" align="center">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabidkhan&theme=solarized_dark" alt="Shabid's Contribution Summary" width="95%"/>
+     </td>
+   </tr>
 </table>
 
 <div align="center">
